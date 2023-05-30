@@ -1,0 +1,332 @@
+[
+    { "Patient": {
+        "UniqueID": "124666",
+        "Name": {
+          "LastName": "Manchester",
+          "FirstName": "James",
+          "Middle": "Adam"
+        }, 
+          "Gender": {
+           "sex": [ "M" ]	
+        },
+        "IntakeCriteria": {
+          "DmDxDate": "2012/08/25",
+          "InitialHgbA1c": "8.1",
+          "CoMorbid": [ "Diabetes Mellitus", "CHF", "DVT" ]
+        },
+        "Labs": {
+          "LDLCholesterol": {
+            "LDLLevel": "200",
+            "LDLResultDate": "2013/05/06"
+          },
+          "SerumCreatinine": {
+            "CreatinineLevel": "0.9",
+            "CreatinineResultDate": "2016/11/01"
+          }
+        },
+        "CareLocation": {
+          "FacilityName": "East Side Clinic",
+          "Facility Contact Name": "Mary Silverman",
+          "Facility Contact Phone": "6183481891",
+          "ContactEmail": "rsnurse@eastside.org"
+        }
+      }
+    },
+    { "Patient": {
+        "UniqueID": "151363",
+        "Name": {
+          "LastName": "Safeman",
+          "FirstName": "Lee",
+          "Middle": "Steven"
+        }, 
+        "Gender": {
+           "sex": [ "M" ]	
+        },
+        "IntakeCriteria": {
+          "DmDxDate": "2032/01/23",
+          "InitialHgbA1c": "5",
+          "CoMorbid": [ "Hypertension", "CAD", "None" ]
+        },
+        "Labs": {
+          "LDLCholesterol": {
+            "LDLLevel": "205",
+            "LDLResultDate": "2014/02/22"
+          },
+          "SerumCreatinine": {
+            "CreatinineLevel": "1",
+            "CreatinineResultDate": "2013/14/29"
+          }
+        },
+        "CareLocation": {
+          "FacilityName": "East Side Clinic",
+          "Facility Contact Name": "Mary Silverman",
+          "Facility Contact Phone": "6183481891",
+          "ContactEmail": "rsnurse@eastside.org"
+        }
+      }
+    },
+    { "Patient": {
+        "UniqueID": "170055",
+        "Name": {
+          "LastName": "Bronsman",
+          "FirstName": "Alison",
+          "Middle": "Ashley"
+        }, 
+        "Gender": {
+           "sex": [ "F" ]	
+        },
+        "IntakeCriteria": {
+          "DmDxDate": "2013/06/15",
+          "InitialHgbA1c": "5.5",
+          "CoMorbid": [ "Hypertension", "Kidney Stones", "None" ]
+        },
+        "Labs": {
+          "LDLCholesterol": {
+            "LDLLevel": "188",
+            "LDLResultDate": "2015/02/24"
+          },
+          "SerumCreatinine": {
+            "CreatinineLevel": "1.2",
+            "CreatinineResultDate": "2014/09/13"
+          }
+        },
+        "CareLocation": {
+          "FacilityName": "West Side Clinic",
+          "Facility Contact Name": "Sergio Andrade",
+          "Facility Contact Phone": "3124174564",
+          "ContactEmail": "rsnurse@westside.org"
+        }
+      }
+     },		
+    { "Patient": {
+        "UniqueID": "187292",
+        "Name": {
+          "LastName": "Wang",
+          "FirstName": "Cheryl",
+          "Middle": "Stephanie"
+        }, 
+        "Gender": {
+           "sex": [ "F" ]	
+        },
+        "IntakeCriteria": {
+          "DmDxDate": "2016/09/23",
+          "InitialHgbA1c": "4.5",
+          "CoMorbid": [ "Renal Disease", "Chronic Glomerulonephritis", "None" ]
+        },
+        "Labs": {
+          "LDLCholesterol": {
+            "LDLLevel": "105",
+            "LDLResultDate": "2015/05/15"
+          },
+          "SerumCreatinine": {
+            "CreatinineLevel": "2.9",
+            "CreatinineResultDate": "2012/09/19"
+          }
+        },
+        "CareLocation": {
+          "FacilityName": "West Side Clinic",
+          "Facility Contact Name": "Sergio Andrade",
+          "Facility Contact Phone": "3124174564",
+          "ContactEmail": "rsnurse@westside.org"
+        }
+      }
+     },
+     { "Patient": {
+        "UniqueID": "177253",
+        "Name": {
+          "LastName": "Goffer",
+          "FirstName": "Douglas",
+          "Middle": "Dean"
+        }, 
+        "Gender": {
+           "sex": [ "M" ]	
+        },
+        "IntakeCriteria": {
+          "DmDxDate": "2013/11/09",
+          "InitialHgbA1c": "6.1",
+          "CoMorbid": [ "CAD", "Renal Disease", "Hypertension" ]
+        },
+        "Labs": {
+          "LDLCholesterol": {
+            "LDLLevel": "211",
+            "LDLResultDate": "2012/09/5"
+          },
+          "SerumCreatinine": {
+            "CreatinineLevel": "3.7",
+            "CreatinineResultDate": "2015/06/18"
+          }
+        },
+        "CareLocation": {
+          "FacilityName": "North Side Clinic",
+          "Facility Contact Name": "Ashley Seams",
+          "Facility Contact Phone": "8645151719",
+          "ContactEmail": "rsnurse@northside.org"
+        }
+      }
+     },
+    { "Patient": {
+        "UniqueID": "112954",
+        "Name": {
+          "LastName": "Samford",
+          "FirstName": "Amber",
+          "Middle": "Lilliana"
+        }, 
+        "Gender": {
+           "sex": [ "F" ]	
+        },
+        "IntakeCriteria": {
+          "DmDxDate": "2015/12/12",
+          "InitialHgbA1c": "7.2",
+          "CoMorbid": [ "Diabetes Mellitus", "CHF", "None" ]
+        },
+        "Labs": {
+          "LDLCholesterol": {
+            "LDLLevel": "198",
+            "LDLResultDate": "2016/03/06"
+          },
+          "SerumCreatinine": {
+            "CreatinineLevel": "0.8",
+            "CreatinineResultDate": "2012/07/31"
+          }
+        },
+        "CareLocation": {
+          "FacilityName": "South Side Clinic",
+          "Facility Contact Name": "Tom Nichols",
+          "Facility Contact Phone": "7563119517",
+          "ContactEmail": "rsnurse@southside.org"
+        }
+      }
+     },
+    { "Patient": {
+        "UniqueID": "184279",
+        "Name": {
+          "LastName": "Swagman",
+          "FirstName": "Corey",
+          "Middle": "Angeles"
+        }, 
+        "Gender": {
+           "sex": [ "M" ]	
+        },
+        "IntakeCriteria": {
+          "DmDxDate": "2016/11/28",
+          "InitialHgbA1c": "4.9",
+          "CoMorbid": [ "Kidney Stones", "None", "None" ]
+        },
+        "Labs": {
+          "LDLCholesterol": {
+            "LDLLevel": "95",
+            "LDLResultDate": "2012/04/14"
+          },
+          "SerumCreatinine": {
+            "CreatinineLevel": "0.7",
+            "CreatinineResultDate": "2012/12/28"
+          }
+        },
+        "CareLocation": {
+          "FacilityName": "South Side Clinic",
+          "Facility Contact Name": "Tom Nichols",
+          "Facility Contact Phone": "7563119517",
+          "ContactEmail": "rsnurse@southside.org"
+        }
+      }
+     },
+    { "Patient": {
+        "UniqueID": "163679",
+        "Name": {
+          "LastName": "Allain",
+          "FirstName": "Kyle",
+          "Middle": "Thomas"
+        }, 
+        "Gender": {
+           "sex": [ "M" ]	
+        },
+        "IntakeCriteria": {
+          "DmDxDate": "2014/05/03",
+          "InitialHgbA1c": "4.8",
+          "CoMorbid": [ "Hypertension", "None", "None" ]
+        },
+        "Labs": {
+          "LDLCholesterol": {
+            "LDLLevel": "195",
+            "LDLResultDate": "2013/01/27"
+          },
+          "SerumCreatinine": {
+            "CreatinineLevel": "0.7",
+            "CreatinineResultDate": "2015/03/09"
+          }
+        },
+        "CareLocation": {
+          "FacilityName": "North Side Clinic",
+          "Facility Contact Name": "Ashley Seams",
+          "Facility Contact Phone": "8645151719",
+          "ContactEmail": "rsnurse@northside.org"
+        }
+      }
+     },
+     { "Patient": {
+        "UniqueID": "130236",
+        "Name": {
+          "LastName": "Summerfelt",
+          "FirstName": "Ariana",
+          "Middle": "Elizabeth"
+        }, 
+        "Gender": {
+           "sex": [ "F" ]	
+        },
+        "IntakeCriteria": {
+          "DmDxDate": "2016/01/28",
+          "InitialHgbA1c": "7.7",
+          "CoMorbid": [ "Diabetes Mellitus", "Renal Disease", "Hypertension" ]
+        },
+        "Labs": {
+          "LDLCholesterol": {
+            "LDLLevel": "201",
+            "LDLResultDate": "2017/02/12"
+          },
+          "SerumCreatinine": {
+            "CreatinineLevel": "3.5",
+            "CreatinineResultDate": "2014/03/13"
+          }
+        },
+        "CareLocation": {
+          "FacilityName": "East Side Clinic",
+          "Facility Contact Name": "Mary Silverman",
+          "Facility Contact Phone": "6183481891",
+          "ContactEmail": "rsnurse@eastside.org"
+        }
+      }
+     },
+     { "Patient": {
+        "UniqueID": "176066",
+        "Name": {
+          "LastName": "Woods",
+          "FirstName": "Alicia",
+          "Middle": "Abigail"
+        }, 
+        "Gender": {
+           "sex": [ "F" ]	
+        },
+        "IntakeCriteria": {
+          "DmDxDate": "2014/10/29",
+          "InitialHgbA1c": "5.7",
+          "CoMorbid": [ "Renal Disease", "Hypertension", "None" ]
+        },
+        "Labs": {
+          "LDLCholesterol": {
+            "LDLLevel": "210",
+            "LDLResultDate": "2027/06/20"
+          },
+          "SerumCreatinine": {
+            "CreatinineLevel": "4.1",
+            "CreatinineResultDate": "2014/09/22"
+          }
+        },
+        "CareLocation": {
+          "FacilityName": "South Side Clinic",
+          "Facility Contact Name": "Tom Nichols",
+          "Facility Contact Phone": "7563119517",
+          "ContactEmail": "rsnurse@southside.org"
+        }
+      }
+     }
+    ]
