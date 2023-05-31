@@ -1,3 +1,3 @@
-Data Analyst Portfolio Project Repository
+JSON Repository
 ------------------------------------------
-This Repository will hold all of the code and queries from my Portfolio Projects 
+This Repository holds the codes to my JSON programming as well as jq querying code.
